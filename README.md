@@ -1,5 +1,7 @@
 🚀 Real-World Software Pipeline Simulation Using Python Abstraction
+
 This project simulates a real-world software development pipeline, illustrating how software, data engineering, and ML teams collaborate through a structured, version-controlled, and abstracted codebase.
+
 
 🎯 Key Objectives
 ✅ Demonstrate modular code division across team roles
@@ -37,7 +39,7 @@ YOLOv8 (Ultralytics) for Object Detection
 bash
 Copy
 Edit
-git clone https://github.com/VodnalaNaveen/cicd.git
+git clone https://github.com/RAVULABHANU/CICD.git
 cd cicd
 🔹 Install Dependencies
 bash
