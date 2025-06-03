@@ -4,12 +4,15 @@ This project simulates a real-world software development pipeline, illustrating 
 
 
 🎯 Key Objectives
+
 ✅ Demonstrate modular code division across team roles
 ✅ Showcase how abstraction drives clean integration and extensibility
 ✅ Emulate real-world CI/CD workflows using GitHub
 
 👥 Team Simulation & Role Responsibilities
+
 Role	Responsibility	File
+
 👨‍💼 Senior Developer	Defines abstract skeleton using base classes	Version1.py
 👨‍💻 Junior Developer	Implements core logic via inheritance	Version2.py
 🧪 Tester / User	Runs the complete pipeline through CLI	main_version2.py
